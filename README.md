@@ -24,3 +24,10 @@
 
 
 # Voici le lien : benji.alwaysdata.net
+
+## MOT DE PASSE ADMIN : 
+### Nom_utilisateur : admin
+### Mot_De_Passe : admin123
+
+# Voici des citations : "L'État, c'est moi" avec (https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBbPCuKs1FsvQ7irUfUOnvqKwtfBSMVkvezqm_7SKWI84PZJbV)
+# "Tout ce qui est mort comme fait, est vivant comme enseignement" (https://www.babelio.com/users/AVT_Victor-Hugo_7042.jpg)
